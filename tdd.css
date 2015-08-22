@@ -1,0 +1,39 @@
+body {
+  background-color: #232526;
+  color: #DEDEDE;
+  padding: 20px;
+}
+
+h1, h2, h3, h4 {
+  color: #ED5A40;
+}
+
+
+/*ol {*/
+  /*color: #A7E040;*/
+/*}*/
+
+hr {
+  border: 1px solid black;
+}
+
+.story p {
+  line-height: 0.5;
+  font-style: italic;
+}
+
+a, a:link, a:active, a:visited, a:hover {
+  color: royalblue;
+}
+
+.problem p {
+  color: lightgray;
+}
+
+#mocha {
+  color: #F62D73;
+}
+
+#mocha-stats em {
+  color: white;
+}
