@@ -1,3 +1,4 @@
+/*
 describe('assert', function() {
   it('works!', function(){
     assert.equal(true, true);
@@ -15,3 +16,4 @@ describe('should', function() {
     true.should.equal(true);
   });
 });
+*/
