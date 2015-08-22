@@ -28,6 +28,7 @@ a, a:link, a:active, a:visited, a:hover {
 
 .problem p {
   color: lightgray;
+  width: 600px;
 }
 
 #mocha {
