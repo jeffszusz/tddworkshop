@@ -1,8 +1,12 @@
-Borrowed from Guy Royse
-https://github.com/guyroyse/vending-machine-kata
+# Test Driving Your Code
+by Jeff Szusz
 
-Vending Machine Kata
-====================
+Keynote: https://www.dropbox.com/s/4tjptibopdeuwd4/TDD%20Tutorial%20Day%20v2.key?dl=0
+
+PowerPoint: https://www.dropbox.com/s/frrgs1qjdxpea1i/TDD%20Tutorial%20Day%20v2.pptx?dl=0
+
+# Vending Machine Kata 
+Borrowed from Guy Royse: https://github.com/guyroyse/vending-machine-kata
 
 In this exercise you will build the brains of a vending machine.  It will accept money, make change, maintain
 inventory, and dispense products.  All the things that you might expect a vending machine to accomplish.
