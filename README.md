@@ -1,4 +1,4 @@
-Borrowed from Guy Royse without his permission.
+Borrowed from Guy Royse
 https://github.com/guyroyse/vending-machine-kata
 
 Vending Machine Kata
